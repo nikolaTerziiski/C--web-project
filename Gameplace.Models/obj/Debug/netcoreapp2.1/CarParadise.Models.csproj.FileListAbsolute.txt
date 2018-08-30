@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\bin\Debug\netcoreapp2.1\CarParadise.Models.deps.json
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\bin\Debug\netcoreapp2.1\CarParadise.Models.dll
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\bin\Debug\netcoreapp2.1\CarParadise.Models.pdb
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\CarParadise.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\CarParadise.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\CarParadise.Models.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\CarParadise.Models.dll
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\CarParadise.Models.pdb
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\CarParadise.Models.csprojAssemblyReference.cache

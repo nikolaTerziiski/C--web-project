@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\bin\Debug\netcoreapp2.1\Gameplace.Models.deps.json
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\bin\Debug\netcoreapp2.1\Gameplace.Models.dll
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\Gameplace.Models.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\Gameplace.Models.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\Gameplace.Models.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Gameplace\Gameplace.Models\obj\Debug\netcoreapp2.1\Gameplace.Models.AssemblyInfo.cs

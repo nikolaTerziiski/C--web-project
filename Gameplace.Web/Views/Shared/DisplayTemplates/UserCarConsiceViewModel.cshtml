@@ -1,0 +1,20 @@
+﻿@model UserCarConsiceViewModel
+@{
+    ViewData["Title"] = "UserCarConsiceViewModel";
+}
+
+
+<div class="row">
+    <div class="col-sm-6">
+        <img src="@Model.ImageUrl" width="600" alt="Picture for @Model.CarModel" />
+    </div>
+    <div class="col-sm-6 col-sm-push-2">
+        <h1>@Model.Brand - @Model.CarModel</h1>
+        <br />
+        <div class="row col-sm-12 col-sm-push-1">
+            <a asp-controller="Cars" asp-action="Buy" class="btn btn-success">Buy</a>
+            <a asp-controller="Cars" asp-action="Rent" class="btn btn-success">Rent</a>
+        </div>
+    </div>
+</div>
+

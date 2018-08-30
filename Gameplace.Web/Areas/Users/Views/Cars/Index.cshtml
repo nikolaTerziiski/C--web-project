@@ -1,0 +1,9 @@
+﻿@model ICollection<UserCarConsiceViewModel>
+@{
+    ViewData["Title"] = "Index";
+}
+@foreach (var car in Model)
+{
+    @Html.DisplayForModel(car)
+}
+
